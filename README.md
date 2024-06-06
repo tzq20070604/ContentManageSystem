@@ -9,7 +9,7 @@
 ## 使用方法
 ### 启动jsonServer服务
 ``` shell
-$ cd xxx/Server
+$ cd xxx/ContentManageSystem/Server
 $ json-server db.json --watch
 ```
 ### 启动vue项目
