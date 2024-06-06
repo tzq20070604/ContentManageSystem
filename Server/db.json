@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "username": "tzq",
+      "passwd": "12345",
+      "id": 1
+    },
+    {
+      "username": "汤志强",
+      "passwd": "123",
+      "id": 2
+    },
+    {
+      "username": "tzq123",
+      "passwd": "123",
+      "id": 3
+    },
+    {
+      "username": "tzq",
+      "passwd": "123",
+      "id": 4
+    }
+  ],
+  "goods": [],
+  "employees": []
+}
